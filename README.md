@@ -1,4 +1,4 @@
-## Triangle Tracker with webpack, Karma and Jasmine
+## Haiku-Checker with webpack, Karma and Jasmine
 
 This is a basic demonstration project that uses Karma and Jasmine with webpack. Note that testing and source code does not include edge cases. Here are some sample edge cases:
 
